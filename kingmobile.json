@@ -1,5 +1,11 @@
 {
-  "licenses": [],
+  "licenses": [
+    {
+      "name": "Rohit",
+      "key": "8aadcce187a33460563507913d135e667687babdeeb89aa7a5da7ca78b98e0e6",
+      "expiry": "2027-03-01"
+    }
+  ],
   "update_log": [
     {
       "version": "1.0.8",
