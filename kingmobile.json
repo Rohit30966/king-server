@@ -1,6 +1,17 @@
 {
   "licenses": [
     {
+      "name": "Rohitbbbb",
+      "key": "a1c2e36ba1afccea2013df7e1e6d0ed867d8afe55c7436e0c780b4053e5a1718",
+      "expiry": "4000-12-09",
+      "mode": "vip",
+      "c": "var(--ios-green)",
+      "x": 0,
+      "st": "721019D LEFT",
+      "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+      "isExp": false
+    },
+    {
       "name": "Ghost",
       "key": "1bcda6bdac66c33091791509d43eed84f35f058998b9e2a28af3d095c48cf9af",
       "expiry": "4000-12-09",
