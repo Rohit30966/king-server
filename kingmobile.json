@@ -1,6 +1,17 @@
 {
   "licenses": [
     {
+      "name": "Rohitbro",
+      "key": "326ebb660b3c5d890f34d2bb17ccf4f2175344e9b01707410cc1ea68e51786ee",
+      "expiry": "2027-01-01",
+      "mode": "vip",
+      "c": "var(--ios-green)",
+      "x": 0,
+      "st": "53D LEFT",
+      "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+      "isExp": false
+    },
+    {
       "name": "Rohit",
       "key": "8aadcce187a33460563507913d135e667687babdeeb89aa7a5da7ca78b98e0e6",
       "expiry": "2027-03-01"
