@@ -1,6 +1,17 @@
 {
   "licenses": [
     {
+      "name": "Ghost",
+      "key": "1bcda6bdac66c33091791509d43eed84f35f058998b9e2a28af3d095c48cf9af",
+      "expiry": "4000-12-09",
+      "mode": "vip",
+      "c": "var(--ios-green)",
+      "x": 0,
+      "st": "721019D LEFT",
+      "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+      "isExp": false
+    },
+    {
       "name": "Rohit bhai",
       "key": "f4ee751014dd5d7298c728c9331cb6a27705d3bfbba83c7cc097e2ae95b0e0df",
       "expiry": "2026-12-31",
